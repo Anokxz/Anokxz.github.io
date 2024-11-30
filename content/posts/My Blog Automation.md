@@ -9,7 +9,7 @@ tags:
 categories:
   - Technology
   - Productivity
-summary: A guide on how I automated your blog using Python and Hugo seamless deployment and management.
+summary: A guide on how to automated your blog using Python and Hugo seamless deployment and management.
 author: Anokxz
 cover_image: /images/automation_blog_cover.jpg
 show_comments: true
